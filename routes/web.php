@@ -24,4 +24,4 @@ Route::resource('transactions','TransactionsController', ['except' => 'show']);
 
 Auth::routes();
 
-Route::get('/profile', 'profileController@index')->name('profile');
+Route::get('/profile', 'ProfileController@index')->name('profile');
