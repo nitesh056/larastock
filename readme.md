@@ -1,5 +1,7 @@
 # Larastock
 
+Deployed in [larastock](https://larastock.herokuapp.com/)
+
 ## Installation Guide
 
 * Clone the repo `git clone https://github.com/nitesh056/larastock.git`
